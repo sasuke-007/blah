@@ -1,0 +1,20 @@
+body{
+    background-image: radial-gradient(rgba(0, 0, 0, 0.712), rgba(10, 9, 9, 0.651)) , url(https://w.wallhaven.cc/full/28/wallhaven-281d5y.png);
+    background-position: center;
+    background-size: 100%, no-reapeat;
+}
+
+h1{
+    background-color: rgba(0, 0, 0, 0.13);
+    color: rgb(250, 250, 250);
+    text-align: center;
+}
+
+p{
+color: ghostwhite;
+background-color: rgba(10, 9, 1, 0.151);
+}
+
+label{
+    color: white;
+}
