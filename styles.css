@@ -27,3 +27,31 @@ table{
 P{
   color: cyan;
 }
+input{
+  opacity: 0.5;
+}
+button{
+  border-radius: 3px;
+  background-color: rgba(200, 255, 0, 0.432)  ;
+  border: 0px;
+  box-shadow: 1px 1px 2px rgb(93, 151, 103);
+}
+
+button:hover{
+  background-color: cornsilk;
+  opacity: 0.5;
+}
+a{
+  text-decoration: none;
+  color: aliceblue;
+  background-color: rgba(0, 0, 0, 0.678);
+  border: rgb(0, 0, 0);
+  border-radius: 5px;
+  padding: 10px 5px;
+  transition: width 2s;
+}
+a:hover{
+  background-color: rgba(238, 238, 238, 0.479);
+  color: greenyellow;
+  width: max-content;
+}
