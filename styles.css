@@ -5,6 +5,8 @@ body{
   align-items: center;
   background-image: url(img.jpg), linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75));
   color: aliceblue;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 table, th, td {
   border: 1px solid rgb(67, 143, 6);
